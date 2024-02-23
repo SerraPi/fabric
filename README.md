@@ -37,7 +37,7 @@ it's really simple to get fabric working, you just...
      
 	this step does depend on your system, this command will work for arch linux to install the dependency's using `pacman`
 	
-	`sudo pacman -S gtk3 cairo gtk-layer-shell libgirepository gobject-introspection gobject-introspection-runtime python python-pip python-gobject python-cairo python-loguru pkgconf`
+	`sudo pacman -S gtk3 cairo gtk-layer-shell libgirepository gobject-introspection gobject-introspection-runtime python python-pip python-gobject python-cairo python-loguru python-psutil pkgconf`
 
 	 if you're not on Arch, you will have to figure out yourself what is the package names for your distro
 
